@@ -11,6 +11,7 @@
 ## What did I learn?
 - Making beautiful graphs with ggplot2.
 - Cleaning data with tidyverse.
+- How to use LaTeX for mathematical notation.
 - How to check for outliers and how that impacts the analysis.
 - The statistics and theory behiend mixed-ANOVA analysis.
 - The statistics and theory behiend multilevel modleing.
