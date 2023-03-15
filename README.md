@@ -6,6 +6,7 @@
 ## Summary and Actionable Insights
 - Multileveling modeling does a better job of handling missing data than mixed-ANOVA.
 - Multileveling modeling treates time as a continuos variable which is helpful in analysis. 
+- Multileveling modeling handles the nested structure of the data better. 
 - In short, multileveling modeling was a better model and fit the data better than mixed-ANOVA. 
 
 ## What did I learn?
